@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Featured Projects
+
+### [EV Expansion in Washington State](https://github.com/samuelvurity/EV-Expansion-in-WA)
+*Analyzing high-potential markets for electric vehicle adoption in Washington State using regression modeling and economic analysis.*
+
+Key Highlights:
+- Conducted data cleaning and preprocessing for a large dataset (86M rows).
+- Built regression models in R to identify factors influencing EV adoption.
+- Provided actionable insights for strategic decision-making in marketing and manufacturing.
