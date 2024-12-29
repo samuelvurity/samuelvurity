@@ -25,3 +25,6 @@ Key Highlights:
 - Conducted data cleaning and preprocessing for a large dataset (86M rows).
 - Built regression models in R to identify factors influencing EV adoption.
 - Provided actionable insights for strategic decision-making in marketing and manufacturing.
+
+
+This project is part of my [GitHub Portfolio](https://github.com/samuelvurity/portfolio).
