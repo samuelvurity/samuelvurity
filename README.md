@@ -1,38 +1,35 @@
 # **Hi, I'm Samuel 👋**  
 
-Welcome to my GitHub! I’m a **data enthusiast and problem solver** who loves working with **data pipelines, machine learning models, and cloud-based solutions**. I enjoy transforming raw data into **efficient workflows, insightful analytics, and scalable architectures** that drive real-world impact.  
-
-I’ve built **automated ETL pipelines, predictive models, and cloud-native data workflows**—exploring everything from **real-time analytics to AI-driven insights**. My projects span **data engineering, analytics, and infrastructure**, always with a focus on **efficiency and scalability**.  
+I’m a **data engineer and machine learning enthusiast** with a passion for **building scalable data solutions, optimizing workflows, and leveraging AI-driven insights**. I enjoy working at the **intersection of data, technology, and business**, creating systems that turn raw data into actionable intelligence.  
 
 ---
 
-## 🚀 **What I’m Working On**  
+## 📂 **Projects I've Worked On**  
+
+### 🔹 **Automated ETL & Data Pipelines**  
+Developed **Python & SQL-based ETL workflows** to streamline data ingestion, reducing processing time by **40%** and improving data accuracy. Integrated **AWS Glue, Lambda, and S3** for scalable, cloud-based data management.  
+
+### 🔹 **Predictive Modeling for Credit Risk**  
+Built **XGBoost & LightGBM** models to assess credit risk, achieving an **AUC-ROC of 0.92**. Applied **feature engineering, hyperparameter tuning, and model validation techniques** to improve classification accuracy.  
+
+### 🔹 **Business Intelligence & Visualization**  
+Designed **interactive Power BI dashboards** to provide real-time analytics, improving decision-making and increasing engagement by **20%**.  
+
+---
+
+## 🚀 **What I’m Currently Working On**  
+
 ### 🏎️ **F1 Strategic Intelligence Platform (F1-SIP)** 📊  
 A **cloud-native platform** designed for **high-scale data processing, real-time analytics, and AI-powered insights**.  
 
-🔹 **Streaming Architectures** – Kafka-driven pipelines  
-🔹 **Data Quality & Validation** – Ensuring data integrity at scale  
-🔹 **Scalable ETL & Data Modeling** – Using **dbt & SQL optimization**  
-🔹 **Cloud & Infrastructure as Code (IaC)** – **Terraform for automated deployments**  
-🔹 **Cost Optimization & Performance Tuning** – **Maximizing cloud efficiency**  
+✔ **Streaming Data Pipelines** – Built with **Apache Kafka** to process live telemetry data at scale.  
+✔ **Data Quality & Validation** – Ensuring integrity using **Great Expectations & dbt**.  
+✔ **Scalable ETL & Data Modeling** – Optimizing **SQL & dbt transformations** for analytics.  
+✔ **Infrastructure as Code (IaC)** – Automating deployments with **Terraform & Kubernetes**.  
+✔ **Performance & Cost Optimization** – Leveraging **serverless architecture** for efficiency.  
 
----
+🎯 Opportunities & Collaboration
 
-## 🎯 **Current Interests**  
+I’m actively exploring internship and entry-level opportunities in data analytics, data engineering, or machine learning, where I can apply my skills to build scalable systems and drive data-driven decision-making.
 
-✔ **Data Engineering & Pipelines** – Building **scalable ETL workflows** & streaming solutions  
-✔ **Machine Learning & AI** – Experimenting with **predictive models & real-time analytics**  
-✔ **Cloud Computing** – Working with **AWS, GCP, and cloud-native data architectures**  
-✔ **Big Data & Databases** – Optimizing **SQL queries, dbt modeling, and performance tuning**  
-✔ **Infrastructure & Automation** – Exploring **Terraform, CI/CD, and DevOps practices**  
-
----
-
-## 🤝 **Let’s Connect!**  
-I’m always open to discussing **data, AI, and cloud technologies**—or just brainstorming cool project ideas! If you’d like to **collaborate, connect, or exchange ideas**, feel free to reach out.  
-
-📩 **Find me on:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/samuelvurity/)  
-📧 [Email](mailto:your-email@example.com)  
-
----
+I’m also open to collaborations, open-source contributions, and discussing innovative data solutions. If you’re working on cutting-edge data projects, let’s connect!
