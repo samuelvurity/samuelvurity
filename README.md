@@ -46,7 +46,7 @@ consumer = KafkaConsumer(
 
 for message in consumer:
     process_data(message.value)  # Custom function to handle incoming telemetry data
-
+```
 
 ## 🎯 **Opportunities & Collaboration**  
 
