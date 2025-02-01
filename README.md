@@ -1,6 +1,6 @@
 # **Hi, I'm Samuel 👋**  
 
-I’m a **data engineer and machine learning enthusiast** with a passion for **building scalable data solutions, optimizing workflows, and leveraging AI-driven insights**. I enjoy working at the **intersection of data, technology, and business**, creating systems that turn raw data into actionable intelligence.  
+I'm a **Master’s candidate in Computer Science & Mathematics** with a passion for **building scalable data solutions, optimizing workflows, and leveraging AI-driven insights**. I enjoy working at the intersection of **data, technology, and business**, developing systems that turn raw information into **actionable intelligence**.  
 
 ---
 
@@ -19,17 +19,43 @@ Designed **interactive Power BI dashboards** to provide real-time analytics, imp
 
 ## 🚀 **What I’m Currently Working On**  
 
-### 🏎️ **F1 Strategic Intelligence Platform (F1-SIP)** 📊  
-A **cloud-native platform** designed for **high-scale data processing, real-time analytics, and AI-powered insights**.  
+### 🏎️ **F1 Strategic Intelligence Platform (F1-SIP) 📊**  
+A cloud-native platform that **processes real-time F1 race telemetry data** to generate **AI-powered strategic insights** for race teams. It enables data-driven decision-making by analyzing **historical race performance, weather conditions, and car telemetry metrics** to optimize race strategies.  
 
+### **Key Technologies & Features**  
 ✔ **Streaming Data Pipelines** – Built with **Apache Kafka** to process live telemetry data at scale.  
 ✔ **Data Quality & Validation** – Ensuring integrity using **Great Expectations & dbt**.  
 ✔ **Scalable ETL & Data Modeling** – Optimizing **SQL & dbt transformations** for analytics.  
 ✔ **Infrastructure as Code (IaC)** – Automating deployments with **Terraform & Kubernetes**.  
 ✔ **Performance & Cost Optimization** – Leveraging **serverless architecture** for efficiency.  
 
-🎯 Opportunities & Collaboration
+🔗 **Project Repo:** [GitHub Repository](https://github.com/your-repo-link)  
 
-I’m actively exploring internship and entry-level opportunities in data analytics, data engineering, or machine learning, where I can apply my skills to build scalable systems and drive data-driven decision-making.
+📌 **Code Sample:** *(Example of a streaming pipeline using Kafka & Python)*  
 
-I’m also open to collaborations, open-source contributions, and discussing innovative data solutions. If you’re working on cutting-edge data projects, let’s connect!
+```python
+from kafka import KafkaConsumer
+
+consumer = KafkaConsumer(
+    'f1_telemetry_data',
+    bootstrap_servers=['kafka-broker:9092'],
+    auto_offset_reset='earliest',
+    enable_auto_commit=True,
+    group_id='f1-analytics-group'
+)
+
+for message in consumer:
+    process_data(message.value)  # Custom function to handle incoming telemetry data
+
+
+## 🎯 **Opportunities & Collaboration**  
+
+I’m actively seeking **internship and entry-level opportunities** in **data engineering, analytics, and cloud computing**.  
+I’m particularly interested in roles that involve **scalable data pipelines, machine learning for predictive analytics, and cloud-based data architecture**.  
+
+I’m also open to **collaborations, open-source contributions, and discussing innovative data solutions** in **FinTech, AI, and sports analytics**.  
+If you’re working on **cutting-edge data projects**, let’s connect!  
+
+📩 **Find me on:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/samuelvurity/)  
+📧 [Email](mailto:your-email@example.com)  
