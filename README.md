@@ -32,7 +32,7 @@ I’m currently seeking **full-time & Intern roles** in:
 ---
 
 ### 📄 **Find My Resume Here**  
-📂 **[Resume Link](#)** *(https://www.dropbox.com/scl/fi/10q6e7f0ocdn7agbns4lr/Resume-Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=qdd60t454zzq97gqx7tkyly1h&st=cmrf05kw&dl=0)*  
+📂 **[[Resume Link](https://www.dropbox.com/scl/fi/10q6e7f0ocdn7agbns4lr/Resume-Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=qdd60t454zzq97gqx7tkyly1h&st=cmrf05kw&dl=0)](#)** *(https://www.dropbox.com/scl/fi/10q6e7f0ocdn7agbns4lr/Resume-Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=qdd60t454zzq97gqx7tkyly1h&st=cmrf05kw&dl=0)*  
 
 ---
 
